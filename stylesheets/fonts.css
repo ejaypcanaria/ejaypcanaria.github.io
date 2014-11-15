@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,300);
+@font-face {
+  font-family: 'Bebas';
+  src: url("../fonts/bebas/BebasNeueBold.otf");
+  src: url("../fonts/bebas/BebasNeueBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'Bebas';
+  src: url("../fonts/bebas/BebasNeueLight.otf");
+  src: url("../fonts/bebas/BebasNeueLight.ttf") format("truetype");
+  font-weight: 300; }
+
+@font-face {
+  font-family: 'Simplifica';
+  src: url("../fonts/simplifica/Simplifica.ttf") format("truetype"); }

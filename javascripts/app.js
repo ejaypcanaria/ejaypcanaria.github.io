@@ -1,13 +1,26 @@
 (function($, win, doc) {
 
+    var app = (function() {
+        var initLandingPage = function() {
+            $('#wrapper')
+                .find('#logo')
+                    .velocity('transition.slideDownIn', {duration: 1000})
+                    .end()
+                .find('#content-area')
+                    .hide()
+                    .velocity('transition.fadeIn', {delay: 400, duration: 1000})
+                    .end();
+        };
+
+        return {
+            init: function() {
+                initLandingPage();
+            }
+        };
+    })();
+
     $(doc).ready(function() {
-        $('.main-nav ul li a').on('click', function() {
-            var target = this.dataset.target;
-
-            $('html, body').animate({scrollTop:  $(target).offset().top}, 800);
-
-            return false;
-        });
+        app.init();
     });
 
 })(window.jQuery, window, document);
