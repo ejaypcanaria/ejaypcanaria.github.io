@@ -7,7 +7,6 @@
                     .velocity('transition.slideDownIn', {duration: 1000})
                     .end()
                 .find('#content-area')
-                    .hide()
                     .velocity('transition.fadeIn', {delay: 400, duration: 1000})
                     .end();
         };
