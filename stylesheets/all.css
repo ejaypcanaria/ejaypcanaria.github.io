@@ -7116,20 +7116,21 @@ a {
     /* line 259, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #experience .job .desc ul {
       margin-top: 20px; }
-/* line 267, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
-#wrapper #interest ul {
-  padding: 0; }
-  /* line 269, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
-  #wrapper #interest ul li {
-    list-style-type: none;
-    display: inline-block;
-    border: 1px solid #CCC;
-    padding: 2px 15px;
-    margin: 0;
-    border-radius: 20px;
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px; }
+/* line 266, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+#wrapper #interest {
+  text-align: center; }
+  /* line 268, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  #wrapper #interest ul {
+    padding: 0; }
+    /* line 271, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    #wrapper #interest ul li {
+      list-style-type: none;
+      display: inline-block;
+      border: 1px solid #CCC;
+      padding: 2px 15px;
+      margin: 0;
+      border-radius: 20px;
+      margin-bottom: 10px; }
 /* line 283, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #education {
   text-align: center; }
