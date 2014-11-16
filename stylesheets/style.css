@@ -6542,7 +6542,7 @@ a {
   display: none; }
   /* line 42, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #logo #logo-img {
-    margin-left: 55px; }
+    margin-left: 0; }
 /* line 47, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #navigation {
   text-align: center;
@@ -6593,24 +6593,27 @@ a {
       font-family: Bebas, Helvetica, sans-serif;
       font-size: 2.2em;
       color: #333;
-      text-align: center; }
-      /* line 109, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
-      #wrapper #content-area #main-content h1.page-title {
-        font-family: Bebas, Helvetica, sans-serif; }
-    /* line 114, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      text-align: center;
+      margin: 1em 0; }
+    /* line 109, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content blockquote {
       text-align: left;
       font-size: 1.2em;
       font-style: italic;
       margin: 20px 0;
       border-color: #52b3d9; }
-    /* line 123, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 118, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content .other-links {
       text-align: center;
       margin-top: 30px; }
-      /* line 127, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 122, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .other-links img {
         width: 50px; }
-      /* line 131, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 126, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .other-links a {
         margin-right: 30px; }
+
+@media (min-width: 768px) {
+  /* line 139, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  #wrapper #logo #logo-img {
+    margin-left: 55px; } }
