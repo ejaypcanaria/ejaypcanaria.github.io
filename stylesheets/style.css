@@ -6513,44 +6513,44 @@ button.close {
   /* line 18, /Users/ejaycanaria/.rvm/gems/ruby-2.1.2/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss */
   .hidden-print {
     display: none !important; } }
-/* line 15, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 16, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 html, body {
   -webkit-font-smoothing: antialiased;
   font-family: "Open Sans", Helvetica, sans-serif;
   font-weight: 1.35em; }
 
-/* line 21, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 22, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 a {
   color: #52b3d9; }
-  /* line 24, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 25, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   a:hover, a:focus, a.active {
     color: #1f6e8d;
     text-decoration: none; }
-  /* line 29, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 30, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   a:active {
     position: relative;
     top: 2px; }
 
-/* line 35, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 36, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 .text-center {
   text-align: center; }
 
-/* line 38, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 39, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #tldr-toggle {
   font-size: 0.9em; }
-  /* line 41, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 42, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #tldr-toggle .fa-toggle-on {
     display: none; }
-  /* line 42, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 43, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #tldr-toggle .fa-toggle-off {
     display: inline-block; }
-  /* line 45, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 46, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #tldr-toggle.on .fa-toggle-on {
     display: inline-block; }
-  /* line 46, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 47, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #tldr-toggle.on .fa-toggle-off {
     display: none; }
-/* line 51, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 52, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #logo {
   font-family: Bebas, Helvetica, sans-serif;
   font-size: 3em;
@@ -6560,115 +6560,115 @@ a {
   padding-bottom: 30px;
   border-bottom: 1px solid #DDD;
   display: none; }
-  /* line 61, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 62, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #logo #logo-img {
     margin-left: 0; }
-/* line 66, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 67, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #navigation {
   text-align: center;
   margin: 10px 0 20px; }
-  /* line 72, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 73, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #navigation ul li {
     list-style-type: none;
     display: inline-block;
     margin-right: 30px; }
-    /* line 77, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 78, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #navigation ul li a {
       text-transform: uppercase;
       font-family: Simplifica, "Open Sans", sans-serif;
       font-size: 2.5em; }
-/* line 86, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 87, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #footer {
   border-top: 1px solid #CCC;
   margin-top: 30px;
   padding: 20px; }
-/* line 92, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 93, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #content-area {
   text-align: center;
   display: none; }
-  /* line 96, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 97, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #content-area #main-content {
     font-size: 1.5em;
     font-weight: 300;
     color: #555;
     line-height: 1.65em;
     text-align: justify; }
-    /* line 103, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 104, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content .display-photo {
       text-align: center; }
-      /* line 105, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 106, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .display-photo img {
         width: 200px; }
-      /* line 108, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 109, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .display-photo .short-desc {
         font-style: italic;
         font-size: 1.25em;
         color: #999;
         margin-bottom: 30px; }
-    /* line 116, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 117, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content img {
       width: 100%; }
-    /* line 120, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 121, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content h1 {
       font-family: Bebas, Helvetica, sans-serif;
       font-size: 2.2em;
       color: #333;
       text-align: center;
       margin: 1em 0; }
-    /* line 128, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 129, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content h2 {
       font-family: Simplifica, "Open Sans", sans-serif;
       text-transform: uppercase;
       font-size: 2em;
       letter-spacing: 0.2em;
       text-align: center; }
-      /* line 135, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 136, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content h2:before, #wrapper #content-area #main-content h2:after {
         content: "—"; }
-    /* line 140, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 141, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content blockquote {
       text-align: left;
       font-size: 1.2em;
       font-style: italic;
       margin: 20px 0;
       border-color: #52b3d9; }
-    /* line 149, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 150, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content .other-links {
       text-align: center;
       margin-top: 30px; }
-      /* line 153, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 154, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .other-links img {
         width: 50px; }
-      /* line 157, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 158, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content .other-links a {
         margin-right: 30px; }
-    /* line 162, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 163, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #content-area #main-content section {
       margin-bottom: 5em; }
-      /* line 165, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 166, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content section h2 {
         margin-bottom: 1em; }
-      /* line 168, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 169, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #content-area #main-content section .p {
         margin-bottom: 1.5em; }
-/* line 177, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 178, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #skills.tldr {
   text-align: center; }
-  /* line 180, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 181, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #skills.tldr .p {
     display: inline; }
-    /* line 182, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 183, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #skills.tldr .p span {
       display: none; }
-    /* line 184, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 185, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #skills.tldr .p .skill {
       display: inline-block;
       margin-bottom: 10px; }
-    /* line 189, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 190, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #skills.tldr .p .github {
       display: block;
       margin-top: 30px; }
-/* line 196, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 197, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #skills .skill {
   display: inline-block;
   padding: 5px 15px 1px;
@@ -6679,54 +6679,54 @@ a {
   font-family: Bebas, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 0.85em; }
-  /* line 207, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 208, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #skills .skill.back-end {
     border: 1px solid #d64541;
     color: #d64541; }
-  /* line 212, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 213, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #skills .skill.front-end {
     border: 1px solid #f5ab35;
     color: #f5ab35; }
-  /* line 217, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 218, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #skills .skill.provisioning {
     border: 1px solid #674172;
     color: #674172; }
-  /* line 222, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 223, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #skills .skill.other {
     border: 1px solid #1bbc9b;
     color: #1bbc9b; }
-/* line 232, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 233, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #experience.tldr .desc {
   display: none; }
-/* line 237, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 238, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #experience .job {
   margin-bottom: 30px;
   text-align: center; }
-  /* line 241, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 242, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #experience .job .title {
     font-size: 1.35em;
     font-weight: bold; }
-  /* line 246, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 247, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #experience .job .tenure {
     font-style: italic;
     color: #999; }
-  /* line 251, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 252, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #experience .job .desc {
     text-align: justify;
     margin-top: 30px; }
-    /* line 255, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 256, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #experience .job .desc .highlight {
       margin-top: 20px; }
-    /* line 259, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 260, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #experience .job .desc ul {
       margin-top: 20px; }
-/* line 266, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 267, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #interest {
   text-align: center; }
-  /* line 268, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 269, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #interest ul {
     padding: 0; }
-    /* line 271, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 272, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #interest ul li {
       list-style-type: none;
       display: inline-block;
@@ -6735,32 +6735,32 @@ a {
       margin: 0;
       border-radius: 20px;
       margin-bottom: 10px; }
-/* line 283, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+/* line 284, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
 #wrapper #education {
   text-align: center; }
-  /* line 285, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 286, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #education .course {
     font-size: 1.2em;
     font-weight: bold; }
-  /* line 290, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 291, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #education .year {
     font-style: italic;
     color: #999; }
-  /* line 295, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 296, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #education .honors {
     margin-top: 30px; }
-    /* line 298, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 299, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #education .honors ul {
       padding: 0; }
-      /* line 301, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+      /* line 302, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
       #wrapper #education .honors ul li {
         list-style-type: none; }
-    /* line 306, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+    /* line 307, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
     #wrapper #education .honors .fa {
       color: #f5ab35;
       margin-right: 10px; }
 
 @media (min-width: 768px) {
-  /* line 317, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
+  /* line 318, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/style.css.scss */
   #wrapper #logo #logo-img {
     margin-left: 55px; } }

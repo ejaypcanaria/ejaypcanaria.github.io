@@ -1,0 +1,25 @@
+/* line 2, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/work.css.scss */
+#wrapper #main-content #work h2.page-title {
+  margin: 30px 0 15px;
+  font-size: 3em;
+  font-family: Simplifica, 'Open Sans', sans-serif;
+  letter-spacing: 0.1em; }
+/* line 9, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/work.css.scss */
+#wrapper #main-content #work .fork-me {
+  text-align: center;
+  margin-left: -35px;
+  margin-bottom: 10px; }
+  /* line 15, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/work.css.scss */
+  #wrapper #main-content #work .fork-me a .fa {
+    color: #333;
+    font-size: 1.5em;
+    margin-right: 10px; }
+/* line 23, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/work.css.scss */
+#wrapper #main-content #work #skills {
+  font-size: 0.85em;
+  text-align: center;
+  margin-bottom: 20px; }
+/* line 29, /Users/ejaycanaria/www/ejaycanaria.com_mm/source/stylesheets/work.css.scss */
+#wrapper #main-content #work .desc {
+  font-style: italic;
+  margin-bottom: 1.5em; }
